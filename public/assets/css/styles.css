@@ -25,9 +25,10 @@ body {
 }
 
 .note-textarea {
-  resize: none;
-  height: calc(100% - 63px);
-  padding-top: 15px;
+  resize: vertical;
+  height: auto;
+  min-height: 200px;
+  padding: 10px;
 }
 
 .note-title {
