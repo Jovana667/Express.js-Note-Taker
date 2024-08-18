@@ -27,9 +27,12 @@ This is a Note Taker application that allows users to write, save, and delete no
 
 ## Screenshot
 
+![note taker1](https://github.com/user-attachments/assets/ac0f0ec9-1b2e-4837-ae9d-a53ea518e657)
+
 
 ## Deployed Application
 
+https://express-js-note-taker-jovana667.onrender.com
 
 ## Credits
 
