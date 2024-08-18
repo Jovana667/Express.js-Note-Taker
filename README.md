@@ -39,7 +39,9 @@ https://express-js-note-taker-jovana667.onrender.com
 This code was cloned from the repository by the following original contributors:
 
 @Xandromus -  Xander Rapstine
+
 @nol166 -  John McCambridge
+
 @Georgeyoo - George
 
 Original Repository: https://github.com/coding-boot-camp/miniature-eureka
