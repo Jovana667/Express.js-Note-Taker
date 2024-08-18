@@ -79,7 +79,16 @@ const handleNoteSave = () => {
   };
   saveNote(newNote).then(() => {
     getAndRenderNotes();
+    
+    // Clear the form
+    noteTitle.value = '';
+    noteText.value = '';
+    
+    // Reset activeNote
+    activeNote = {};
+    
     renderActiveNote();
+    handleRenderBtns();
   });
 };
 
